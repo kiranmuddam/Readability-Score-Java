@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Move the first N characters/Problems-Move_the_first_N_characters.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Move the first N characters/Problems-Move_the_first_N_characters.iml" group="Readability_Score/Problems-Move_the_first_N_characters" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Move the first N characters/Problems-Move_the_first_N_characters_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Move the first N characters/Problems-Move_the_first_N_characters_main.iml" group="Readability_Score/Problems-Move_the_first_N_characters" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Move the first N characters/Problems-Move_the_first_N_characters_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Move the first N characters/Problems-Move_the_first_N_characters_test.iml" group="Readability_Score/Problems-Move_the_first_N_characters" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Palindrome/Problems-Palindrome.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Palindrome/Problems-Palindrome.iml" group="Readability_Score/Problems-Palindrome" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Palindrome/Problems-Palindrome_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Palindrome/Problems-Palindrome_main.iml" group="Readability_Score/Problems-Palindrome" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Palindrome/Problems-Palindrome_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Palindrome/Problems-Palindrome_test.iml" group="Readability_Score/Problems-Palindrome" />
