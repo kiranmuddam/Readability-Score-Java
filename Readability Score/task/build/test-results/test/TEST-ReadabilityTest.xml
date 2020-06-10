@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ReadabilityTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-10T06:25:01" hostname="N3XuSPrIM3" time="0.083">
+  <properties/>
+  <testcase name="start" classname="ReadabilityTest" time="0.083"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+> This text is simple to read!
+EASY
+?[1;31m
+Start test 2?[0m
+> This text is hard to read. It contains a lot of sentences as well as a lot of words in each sentence.
+HARD
+?[1;31m
+Start test 3?[0m
+> 111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+EASY
+?[1;31m
+Start test 4?[0m
+>                                                                                                     
+EASY
+?[1;31m
+Start test 5?[0m
+> qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+HARD
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
