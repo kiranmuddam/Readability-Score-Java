@@ -50,6 +50,24 @@ files:
         }
     }
   learner_created: false
+- name: src/readability/Main.java
+  visible: true
+  text: |
+    package readability;
+    import java.util.Scanner;
+    public class Main {
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+            int specialCharCount = 0;
+            String textInput = scanner.nextLine();
+            if (textInput.length() > 100) {
+                System.out.println("HARD");
+            } else {
+                System.out.println("EASY");
+            }
+        }
+    }
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/39/stages/206/implement
-status: Unchecked
+status: Solved
 record: -1
