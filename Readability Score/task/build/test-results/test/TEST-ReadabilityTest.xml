@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ReadabilityTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-10T06:25:01" hostname="N3XuSPrIM3" time="0.083">
+<testsuite name="ReadabilityTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-11T06:24:46" hostname="N3XuSPrIM3" time="0.083">
   <properties/>
   <testcase name="start" classname="ReadabilityTest" time="0.083"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
-> This text is simple to read!
+> This text is simple to read! It has on average less than 10 words per sentence.
 EASY
 ?[1;31m
 Start test 2?[0m
-> This text is hard to read. It contains a lot of sentences as well as a lot of words in each sentence.
+> This text is hard to read. It contains a lot of sentences as well as a lot of words in each sentence
 HARD
 ?[1;31m
 Start test 3?[0m
-> 111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
-EASY
+> 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1. 1. 1.
+HARD
 ?[1;31m
 Start test 4?[0m
->                                                                                                     
-EASY
+> 12, 12 13 14 14 14, 12 21 23 89! 75 12, 134 241 123, 123 123 123, 123 123 123? 123, 123 123 123 23 123 213 123 123 123.
+HARD
 ?[1;31m
 Start test 5?[0m
-> qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-HARD
+> 12, 12 13 14 14 14, 12 21 23 89! 75 12, 241 123, 123 123 123, 123 123 123? 123, 123 123 123 23 123 213 123 123 123.
+EASY
+?[1;31m
+Start test 6?[0m
+> Readability is the ease with which a reader can understand a written text. In natural language, the readability of text depends on its content and its presentation. Researchers have used various factors to measure readability. And that is it!
+EASY
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

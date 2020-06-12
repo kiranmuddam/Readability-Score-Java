@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Adding values/Problems-Adding_values.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Adding values/Problems-Adding_values.iml" group="Readability_Score/Problems-Adding_values" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Adding values/Problems-Adding_values_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Adding values/Problems-Adding_values_main.iml" group="Readability_Score/Problems-Adding_values" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Adding values/Problems-Adding_values_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Adding values/Problems-Adding_values_test.iml" group="Readability_Score/Problems-Adding_values" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Generating passwords/Problems-Generating_passwords.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Generating passwords/Problems-Generating_passwords.iml" group="Readability_Score/Problems-Generating_passwords" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Generating passwords/Problems-Generating_passwords_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Generating passwords/Problems-Generating_passwords_main.iml" group="Readability_Score/Problems-Generating_passwords" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Generating passwords/Problems-Generating_passwords_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Generating passwords/Problems-Generating_passwords_test.iml" group="Readability_Score/Problems-Generating_passwords" />
