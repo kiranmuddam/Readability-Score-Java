@@ -1,0 +1,19 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class BinarySearch {
+        /**
+         * @param nums ordered sequence of integers
+         * @param key  an element for searching
+         * @return index of key or a negative value
+         */
+        public static int callBinarySearch(int[] nums, int key) {
+            // write your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2253
+status: Solved
+record: -1
